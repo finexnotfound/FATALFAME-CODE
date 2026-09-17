@@ -1,0 +1,6 @@
+{
+  "name": "FatalFlame — Next-Gen AI Coding Model by Finex Tm",
+  "description": "Introducing FatalFlame, an elite autonomous code generation and reasoning AI model by Finex Tm. Completely free, coming November 27th, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
